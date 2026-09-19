@@ -12,8 +12,8 @@ Well here you can find alot of project here also this page is also one of my pro
 <br>
 [Read more](fryrvo.com)
 
-![badge](https://pride-badges.pony.workers.dev/static/v1?label=trans%20rights&stripeWidth=6&stripeColors=5BCEFA,F5A9B8,FFFFFF,F5A9B8,5BCEFA) 
-![badge](https://pride-badges.pony.workers.dev/static/v1?label=Fryrvo&labelColor=%23555&stripeWidth=8&stripeColors=FCF434%2CFFFFFF%2C9C59D1%2C2C2C2C) 
+![badge](https://cdn.fryrvo.com/badge/transright.svg) 
+![badge](https://cdn.fryrvo.com/badge/fryrvoenby.svg) 
 
 <a href="https://github.com/FryrvoStudio/.github/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=FryrvoStudio/.github" />
