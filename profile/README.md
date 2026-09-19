@@ -12,8 +12,9 @@ Well here you can find alot of project here also this page is also one of my pro
 <br>
 [Read more](fryrvo.com)
 
-![badge](https://cdn.fryrvo.com/badge/transright.svg) 
-![badge](https://cdn.fryrvo.com/badge/fryrvoenby.svg) 
+
+[![badge](https://cdn.fryrvo.com/badge/transright.svg)](https://www.hrc.org)
+[![badge](https://cdn.fryrvo.com/badge/fryrvoenby.svg)](https://fryrvo.com)
 
 <a href="https://github.com/FryrvoStudio/.github/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=FryrvoStudio/.github" />
