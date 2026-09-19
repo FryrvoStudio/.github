@@ -13,10 +13,10 @@ Well here you can find alot of project here
 [![badge](https://cdn.fryrvo.com/badge/transright.svg)](https://www.hrc.org)
 [![badge](https://cdn.fryrvo.com/badge/fryrvoenby.svg)](https://fryrvo.com)
 
-[![GitHub](https://cdn.fryrvo.com/badge/github.svg)](https://github.com/Fryrvo)
-[![GitLab](https://cdn.fryrvo.com/badge/gitlab.svg)](https://gitlab.com/Fryrvo)
-[![Codeberg](https://cdn.fryrvo.com/badge/codeberg.svg)](https://codeberg.org/Fryrvo)
-[![YouTube](https://cdn.fryrvo.com/badge/youtube.svg)](https://youtube.com/@fryrvo)
+[![GitHub](https://cdn.fryrvo.com/badge/github.svg?v=2)](https://github.com/Fryrvo)
+[![GitLab](https://cdn.fryrvo.com/badge/gitlab.svg?v=2)](https://gitlab.com/Fryrvo)
+[![Codeberg](https://cdn.fryrvo.com/badge/codeberg.svg?v=2)](https://codeberg.org/Fryrvo)
+[![YouTube](https://cdn.fryrvo.com/badge/youtube.svg?v=2)](https://youtube.com/@fryrvo)
 
 <!-- <a href="https://github.com/FryrvoStudio/.github/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=FryrvoStudio/.github" />
