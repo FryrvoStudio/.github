@@ -1,7 +1,13 @@
 ![icon](https://cdn.fryrvo.com/assets/fryrvo_branding/Logo_bg.png)
 
 
-![Hero picture](https://cdn.fryrvo.com/assets/fryrvo_branding/Fosh.png)
+<!-- <p align="center">
+  <img src="https://cdn.fryrvo.com/assets/fryrvo_branding/Fosh.png" alt="cath"/>
+</p> -->
+
+<!-- <p align="center">
+  <img src="https://cdn.fryrvo.com/assets/fryrvo_branding/cath_things2.png" alt="cath"/>
+</p> -->
 
 ---
 
